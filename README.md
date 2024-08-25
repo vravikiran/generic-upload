@@ -10,4 +10,4 @@ To import it as a library in another application. Please follow the below comman
 create a new spring boot application. In build.gradle file add the dependency in the dependencies section as below:
 implementation 'com.generic:uploadservice:0.0.1'
 After adding build the project and run the application. You can call the "REST" endpoints of library project created above in the current application.
-Please add the required properties in the current application too.
+Please add the required properties in the current application too
