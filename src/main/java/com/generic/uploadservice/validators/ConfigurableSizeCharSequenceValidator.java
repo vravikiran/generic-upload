@@ -2,6 +2,8 @@ package com.generic.uploadservice.validators;
 
 import org.springframework.core.env.PropertyResolver;
 
+import com.generic.uploadservice.config.ContextProvider;
+
 import jakarta.validation.ConstraintValidator;
 import jakarta.validation.ConstraintValidatorContext;
 /**

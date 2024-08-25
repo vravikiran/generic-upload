@@ -1,4 +1,4 @@
-package com.generic.uploadservice.validators;
+package com.generic.uploadservice.config;
 
 import org.springframework.beans.BeansException;
 import org.springframework.context.ApplicationContext;
