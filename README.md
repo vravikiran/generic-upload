@@ -1,5 +1,5 @@
-# This project allows users to upload a csv file and process its contents
-- to create different types of entities based on the uploadType. Here uploadType refers to a specific entity.  
+# This project implements a generic csv file upload functionality
+1. to create different types of entities based on the uploadType. Here uploadType refers to a specific entity.  
 Also inorder to validate field sizes of entity dynamically, declare them in properties file  
 In the annotations of fields bind the "name of property" from which the value should be fetched.  
 It reads the value from properties file and validates the fields of entities based on them  
